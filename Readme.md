@@ -23,7 +23,7 @@ That's It! You should have a form as shown in the demo below and ready to receiv
 
 #Demo
 
-See demo here: []
+See demo here: [sitx.zoycomcloud.com.ng](http://sitx.zoycomcloud.com.ng/)
 
 #Contact
 This plugin is still under development. Please report any issues using the issue tracker.
