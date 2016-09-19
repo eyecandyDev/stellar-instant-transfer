@@ -12,6 +12,9 @@ Include Jquery
 Include `stellar-js-sdk`
 `<script src="stellar-sdk.js"></script>`
 
+Include `stellar-instant-transfer.js`
+`<script src="stellar-instant-transfer.js"></script>`
+
 Add the following tag to your page
 
 `<div id="stellar-instant-transfer" data-rcvr="GCRUQO55VBD2P......"></div>`
