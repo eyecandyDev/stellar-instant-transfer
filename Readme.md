@@ -23,10 +23,13 @@ Add the following tag to your page
 
 That's It! You should have a form as shown in the demo below and ready to receive payments instantly from your website.
 
+#New Features
+- You can now send other asset types not just Lumens
+- You can choose network type; Test or Public
 
 #Demo
 
-See demo here: [sitx.zoycomcloud.com.ng](http://sitx.zoycomcloud.com.ng/)
+See demo here: [Demo URL](https://eyecandydev.github.io/stellar-instant-transfer/)
 
 #Contact
 This plugin is still under development. Please report any issues using the issue tracker.
